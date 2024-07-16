@@ -1,6 +1,6 @@
 # Cryptarithm Solver
 
-This is a console-based Cryptarithm Solver that allows users to solve cryptarithm puzzles with different operations: addition, subtraction, multiplication, and division. The solver can handle high amounts of digits and supports more than two words (e.g., "two + three + three = eleven").
+This is a console-based Cryptarithm Solver that allows users to solve cryptarithm puzzles with different operations: addition, subtraction, multiplication, and division. The solver can handle high amounts of digits and supports more than two words.
 
 ## Features
 
