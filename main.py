@@ -64,7 +64,6 @@ def main():
         result = input("Enter the result word: ")
 
         print("\nLoading, please wait...")
-        time.sleep(2)  # Simulate loading delay
 
         solve_cryptarithm(words, result, choice)
         
@@ -77,3 +76,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
